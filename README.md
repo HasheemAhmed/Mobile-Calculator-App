@@ -22,11 +22,6 @@ Building Android mobile application, developed using **Java, XML, and Android St
 
 ## 📥 Installation & Setup  
 
-### 1️⃣ Clone this repository  
-```bash
-git clone https://github.com/yourusername/CalculatorApp.git
-```
-
 ### 2️⃣ Open in Android Studio  
 - Open **Android Studio**  
 - Click on **"Open an Existing Project"** and select the cloned folder  
@@ -35,12 +30,6 @@ git clone https://github.com/yourusername/CalculatorApp.git
 - Connect an **Android device** (or use an emulator)  
 - Click **Run (▶️)** to install and launch the app  
 
----
-
-## 📸 Screenshots  
-(You can add screenshots of your app here)  
-
----
 
 ## 🛠 Future Improvements  
 - Add advanced mathematical functions (%, square root, etc.)  
