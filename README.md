@@ -1,6 +1,4 @@
 
-![image](https://github.com/user-attachments/assets/f41c1557-7aae-4b95-a057-15d343cf2a42)
-
 # 📱 Calculator App – Android Studio (Java & XML)   
 
 Building Android mobile application, developed using **Java, XML, and Android Studio** as part of my **Mobile Application Development** course. It’s a simple yet functional calculator that performs basic arithmetic operations.  
